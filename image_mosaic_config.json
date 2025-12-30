@@ -1,0 +1,24 @@
+{
+  "rects": [
+    {
+      "x1": 36,
+      "y1": 43,
+      "x2": 156,
+      "y2": 163,
+      "style": "pixelate",
+      "block_size": 10
+    },
+    {
+      "x1": 187,
+      "y1": 50,
+      "x2": 339,
+      "y2": 101,
+      "style": "pixelate",
+      "block_size": 12
+    }
+  ],
+  "current_style": "pixelate",
+  "current_block_size": 10,
+  "naming_pattern": "(.+)",
+  "naming_replacement": "Mosaic - \\1"
+}

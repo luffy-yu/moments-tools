@@ -1,0 +1,12 @@
+{
+  "min_line_length_ratio": 0.5,
+  "canny_threshold1": 0,
+  "canny_threshold2": 15,
+  "hough_threshold": 100,
+  "selected_line_numbers": [
+    1,
+    2
+  ],
+  "naming_pattern": "(.+)",
+  "naming_replacement": "Cropped - \\1"
+}

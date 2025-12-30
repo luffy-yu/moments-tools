@@ -1,0 +1,11 @@
+{
+  "cols": 3,
+  "rows": 3,
+  "spacing": 10,
+  "padding": 20,
+  "row_alignment": "top",
+  "order_mode": "Z",
+  "bg_color": "#191919",
+  "filename_pattern": "(.+)",
+  "sort_group": 0
+}
